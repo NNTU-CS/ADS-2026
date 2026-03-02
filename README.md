@@ -394,7 +394,7 @@
 
 ## Проверки
 
-Дата/время проверки: 01-03-2026 (21:28)
+Дата/время проверки: 02-03-2026 (07:54)
 
 ### ads-0
 
@@ -557,7 +557,7 @@
 | 154 | Ронжин Л.Д. | 25-ИСТ-4-2 |  | | 
 | 155 | Свердлик Н.С. | 25-ИСТ-4-2 |  | | 
 | 156 | Спиридонова М.С. | 25-ИСТ-4-2 |  | | 
-| 157 | Тюрина К.Б. | 25-ИСТ-4-2 |  | | 
+| 157 | Тюрина К.Б. | 25-ИСТ-4-2 | 18 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 158 | Шаркова К.С. | 25-ИСТ-4-2 |  | | 
 | 159 | Швецова А.С. | 25-ИСТ-4-2 |  | | 
 | 160 | Шемякинская С.А. | 25-ИСТ-4-2 |  | | 
@@ -568,7 +568,7 @@
 
 |№   |  ФИО   | Группа |Номер PR | Результат PR | ИТОГ | 
 | -- | ------ | ------ |--- | --- | --- | 
-| 1 | Аболдуев П.А. | 25-ИСТ-1-1 |  | | 
+| 1 | Аболдуев П.А. | 25-ИСТ-1-1 | 144 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 2 | Башкин Н. | 25-ИСТ-1-1 |  | | 
 | 3 | Воскобойников Н.О. | 25-ИСТ-1-1 | 38 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 4 | Гриценюк Р.О. | 25-ИСТ-1-1 | 80 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -622,8 +622,8 @@
 | 52 | Белов А.А. | 25-ИСТ-2 |  | | 
 | 53 | Бондарева К.С. | 25-ИСТ-2 | 34 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 54 | Вершинин А.А. | 25-ИСТ-2 | 67 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 55 | Веселов Ю.А. | 25-ИСТ-2 |  | | 
-| 56 | Глумов Е.И. | 25-ИСТ-2 |  | | 
+| 55 | Веселов Ю.А. | 25-ИСТ-2 | 151 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
+| 56 | Глумов Е.И. | 25-ИСТ-2 | 152 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 57 | Горина Е.А. | 25-ИСТ-2 | 75 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 58 | Демидова Д.Д. | 25-ИСТ-2 | 23 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 59 | Жаринов Н.М. | 25-ИСТ-2 |  | | 
@@ -661,7 +661,7 @@
 | 91 | Люсин Н.В. | 25-ИСТ-3 |  | | 
 | 92 | Самойлов А.В. | 25-ИСТ-3 | 54 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 93 | Вызулин Д.Е. | 25-ИСТ-3 |  | | 
-| 94 | Саматов А.А. | 25-ИСТ-3 | 142 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 94 | Саматов А.А. | 25-ИСТ-3 | 142 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 95 | Патанина Е.А. | 25-ИСТ-3 | 33 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 96 | Жималов В.И. | 25-ИСТ-3 | 21 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 97 | Виноградов В.О. | 25-ИСТ-3 |  | | 
@@ -672,19 +672,19 @@
 | 102 | Ласточкин О.О. | 25-ИСТ-3 | 36 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 103 | Соколова В.С. | 25-ИСТ-3 | 98 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 104 | Калачев Д.В. | 25-ИСТ-3 | 104 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 105 | Вакасин Д.В. | 25-ИСТ-3 | 143 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 105 | Вакасин Д.В. | 25-ИСТ-3 | 143 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 106 | Сахаров Д.Г. | 25-ИСТ-3 | 62 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 107 | Семериков Н.В. | 25-ИСТ-3 |  | | 
-| 108 | Левина Т.Е. | 25-ИСТ-3 |  | | 
-| 109 | Доможиров И.А. | 25-ИСТ-3 |  | | 
+| 108 | Левина Т.Е. | 25-ИСТ-3 | 146 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 109 | Доможиров И.А. | 25-ИСТ-3 | 153 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 110 | Назаров А.А. | 25-ИСТ-3 |  | | 
 | 111 | Троицкий А.С. | 25-ИСТ-3 |  | | 
 | 112 | Наумова П.А. | 25-ИСТ-3 | 138 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 113 | Каримов А.Н. | 25-ИСТ-3 | 20 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 114 | Чукавин И.А. | 25-ИСТ-3 | 119 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
-| 115 | Кулагин А.Д. | 25-ИСТ-3 | 140 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
+| 115 | Кулагин А.Д. | 25-ИСТ-3 | 140 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 116 | Карженков А.Р. | 25-ИСТ-3 |  | | 
-| 117 | Зудин Д.М. | 25-ИСТ-3 |  | | 
+| 117 | Зудин Д.М. | 25-ИСТ-3 | 147 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 118 | Янова А.С. | 25-ИСТ-3 | 121 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 119 | Кузьмина Е.А. | 25-ИСТ-3 | 103 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 120 | Кислинский С.А. | 25-ИСТ-3 | 53 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -701,7 +701,7 @@
 | 131 | Мишин И. | 25-ИСТ-4-1 |  | | 
 | 132 | Порхунов Д. | 25-ИСТ-4-1 | 92 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 133 | Поторочин И.Б. | 25-ИСТ-4-1 | 87 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 134 | Сараев А. | 25-ИСТ-4-1 |  | | 
+| 134 | Сараев А. | 25-ИСТ-4-1 | 150 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 135 | Седышева В.В. | 25-ИСТ-4-1 | 131 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 136 | Слабинская Н. | 25-ИСТ-4-1 |  | | 
 | 137 | Фролов А.А. | 25-ИСТ-4-1 | 86 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
@@ -724,7 +724,7 @@
 | 154 | Ронжин Л.Д. | 25-ИСТ-4-2 |  | | 
 | 155 | Свердлик Н.С. | 25-ИСТ-4-2 | 32 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 156 | Спиридонова М.С. | 25-ИСТ-4-2 | 141 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
-| 157 | Тюрина К.Б. | 25-ИСТ-4-2 |  | | 
+| 157 | Тюрина К.Б. | 25-ИСТ-4-2 | 148 | <img src="img/f.png" width="20"> | <img src="img/f.png" width="20"> | 
 | 158 | Шаркова К.С. | 25-ИСТ-4-2 |  | | 
 | 159 | Швецова А.С. | 25-ИСТ-4-2 | 102 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
 | 160 | Шемякинская С.А. | 25-ИСТ-4-2 | 117 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> | 
