@@ -418,7 +418,7 @@
 
 ## Проверки
 
-Дата/время проверки: 09-06-2026 (18:36)
+Дата/время проверки: 09-06-2026 (21:00)
 
 ### ads-1
 
@@ -963,7 +963,7 @@
 | 14 | Пахомов А.М. | 25-ИСТ-1-1 | 61 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 15 | Романов М.Р. | 25-ИСТ-1-1 |  | |  | | | 
 | 16 | Рохмистров Д.Н. | 25-ИСТ-1-1 | 59 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 17 | Рыбина Е.В. | 25-ИСТ-1-1 | 114 | <img src="img/f.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 17 | Рыбина Е.В. | 25-ИСТ-1-1 | 310 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 18 | Саканов И.Р. | 25-ИСТ-1-1 | 15 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 19 | Стрижов А. | 25-ИСТ-1-1 |  | |  | | | 
 | 20 | Тихонов Р.О. | 25-ИСТ-1-1 | 255 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
@@ -1082,7 +1082,7 @@
 | 133 | Поторочин И.Б. | 25-ИСТ-4-1 | 84 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 134 | Сараев А. | 25-ИСТ-4-1 | 201 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 135 | Седышева В.В. | 25-ИСТ-4-1 | 273 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 136 | Слабинская Н. | 25-ИСТ-4-1 | 303 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 136 | Слабинская Н. | 25-ИСТ-4-1 | 312 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 137 | Фролов А.А. | 25-ИСТ-4-1 | 105 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 138 | Чжен М. | 25-ИСТ-4-1 | 42 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 139 | Чурмеев В. | 25-ИСТ-4-1 | 120 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
@@ -1093,7 +1093,7 @@
 | 144 | Климычев А.А. | 25-ИСТ-4-2 |  | |  | | | 
 | 145 | Клочкова Е.В. | 25-ИСТ-4-2 | 287 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 146 | Кочерова А.В. | 25-ИСТ-4-2 | 214 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
-| 147 | Кравченко С.С. | 25-ИСТ-4-2 | 220 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 147 | Кравченко С.С. | 25-ИСТ-4-2 | 309 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 148 | Кузнецова К.Д. | 25-ИСТ-4-2 | 257 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 149 | Летавин Е.С. | 25-ИСТ-4-2 | 233 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 150 | Малыгина А.А. | 25-ИСТ-4-2 |  | |  | | | 
@@ -1102,14 +1102,14 @@
 | 153 | Пешина М.А. | 25-ИСТ-4-2 | 307 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 154 | Ронжин Л.Д. | 25-ИСТ-4-2 |  | |  | | | 
 | 155 | Свердлик Н.С. | 25-ИСТ-4-2 | 169 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 156 | Спиридонова М.С. | 25-ИСТ-4-2 | 288 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 156 | Спиридонова М.С. | 25-ИСТ-4-2 | 311 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 157 | Тюрина К.Б. | 25-ИСТ-4-2 | 88 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 158 | Шаркова К.С. | 25-ИСТ-4-2 |  | |  | | | 
 | 159 | Швецова А.С. | 25-ИСТ-4-2 | 301 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
-| 160 | Шемякинская С.А. | 25-ИСТ-4-2 | 149 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 160 | Шемякинская С.А. | 25-ИСТ-4-2 | 308 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 161 | Школьник Е.М. | 25-ИСТ-4-2 | 289 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 162 | Юсков А.В. | 25-ИСТ-4-2 | 46 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 163 | Зубков Я. | 25-ИСТ-3 | 143 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 163 | Зубков Я. | 25-ИСТ-3 | 143 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 164 | Исаев О.Н. | 25-ИСТ-2 |  | |  | | | 
 | 165 | Коренькова М.И. | 25-ИСТ-2 |  | |  | | | 
 | 166 | Дударев А.В. | 25-ИСТ-3 |  | |  | | | 
@@ -1485,7 +1485,7 @@
 | 14 | Пахомов А.М. | 25-ИСТ-1-1 | 106 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 15 | Романов М.Р. | 25-ИСТ-1-1 |  | |  | | | 
 | 16 | Рохмистров Д.Н. | 25-ИСТ-1-1 | 76 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 17 | Рыбина Е.В. | 25-ИСТ-1-1 |  | |  | | | 
+| 17 | Рыбина Е.В. | 25-ИСТ-1-1 | 280 | <img src="img/f.png" width="20"> |  | | | <img src="img/f.png" width="20"> |  | 
 | 18 | Саканов И.Р. | 25-ИСТ-1-1 | 248 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 19 | Стрижов А. | 25-ИСТ-1-1 |  | |  | | | 
 | 20 | Тихонов Р.О. | 25-ИСТ-1-1 | 93 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
@@ -1604,9 +1604,9 @@
 | 133 | Поторочин И.Б. | 25-ИСТ-4-1 | 102 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 134 | Сараев А. | 25-ИСТ-4-1 | 206 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 135 | Седышева В.В. | 25-ИСТ-4-1 | 172 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 136 | Слабинская Н. | 25-ИСТ-4-1 | 276 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 136 | Слабинская Н. | 25-ИСТ-4-1 | 282 | <img src="img/f.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 137 | Фролов А.А. | 25-ИСТ-4-1 | 95 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 138 | Чжен М. | 25-ИСТ-4-1 | 262 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 138 | Чжен М. | 25-ИСТ-4-1 | 281 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 139 | Чурмеев В. | 25-ИСТ-4-1 | 215 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 140 | Додонова А.В. | 25-ИСТ-4-2 | 136 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 141 | Досужая М.Ю. | 25-ИСТ-4-2 | 267 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
@@ -1764,7 +1764,7 @@
 | 119 | Кузьмина Е.А. | 25-ИСТ-3 | 170 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
 | 120 | Кислинский С.А. | 25-ИСТ-3 | 82 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
 | 121 | Бербасова В. | 25-ИСТ-4-1 | 134 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
-| 122 | Заворовская Е. | 25-ИСТ-4-1 | 154 | <img src="img/s.png" width="20"> |  |  | нет файлов | <img src="img/f.png" width="20"> |  | 
+| 122 | Заворовская Е. | 25-ИСТ-4-1 | 215 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
 | 123 | Иванцова А. | 25-ИСТ-4-1 |  | |  | | | 
 | 124 | Ильина В. | 25-ИСТ-4-1 |  | |  | | | 
 | 125 | Кекшин М. | 25-ИСТ-4-1 | 163 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
@@ -1778,9 +1778,9 @@
 | 133 | Поторочин И.Б. | 25-ИСТ-4-1 | 118 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
 | 134 | Сараев А. | 25-ИСТ-4-1 | 190 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
 | 135 | Седышева В.В. | 25-ИСТ-4-1 | 110 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
-| 136 | Слабинская Н. | 25-ИСТ-4-1 | 212 | <img src="img/s.png" width="20"> |  |  | нет файлов | <img src="img/f.png" width="20"> |  | 
+| 136 | Слабинская Н. | 25-ИСТ-4-1 | 216 | <img src="img/s.png" width="20"> |  |  | нет файлов | <img src="img/f.png" width="20"> |  | 
 | 137 | Фролов А.А. | 25-ИСТ-4-1 | 69 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
-| 138 | Чжен М. | 25-ИСТ-4-1 | 204 | <img src="img/s.png" width="20"> |  |  | нет файлов | <img src="img/f.png" width="20"> |  | 
+| 138 | Чжен М. | 25-ИСТ-4-1 | 214 | <img src="img/s.png" width="20"> |  |  | нет файлов | <img src="img/f.png" width="20"> |  | 
 | 139 | Чурмеев В. | 25-ИСТ-4-1 | 211 | <img src="img/s.png" width="20"> |  |  | нет файлов | <img src="img/f.png" width="20"> |  | 
 | 140 | Додонова А.В. | 25-ИСТ-4-2 | 79 | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  | 
 | 141 | Досужая М.Ю. | 25-ИСТ-4-2 | 144 | <img src="img/s.png" width="20"> |  |  | нет файлов | <img src="img/f.png" width="20"> |  | 
@@ -1833,7 +1833,7 @@
 | 14 | Пахомов А.М. | 25-ИСТ-1-1 | 61 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 15 | Романов М.Р. | 25-ИСТ-1-1 |  | |  | | | 
 | 16 | Рохмистров Д.Н. | 25-ИСТ-1-1 | 85 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 17 | Рыбина Е.В. | 25-ИСТ-1-1 | 146 | <img src="img/f.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 17 | Рыбина Е.В. | 25-ИСТ-1-1 | 165 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 18 | Саканов И.Р. | 25-ИСТ-1-1 | 118 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 19 | Стрижов А. | 25-ИСТ-1-1 |  | |  | | | 
 | 20 | Тихонов Р.О. | 25-ИСТ-1-1 | 1 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
@@ -1932,7 +1932,7 @@
 | 113 | Каримов А.Н. | 25-ИСТ-3 | 56 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 114 | Чукавин И.А. | 25-ИСТ-3 |  | |  | | | 
 | 115 | Кулагин А.Д. | 25-ИСТ-3 | 68 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
-| 116 | Карженков А.Р. | 25-ИСТ-3 | 161 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 116 | Карженков А.Р. | 25-ИСТ-3 | 166 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 117 | Зудин Д.М. | 25-ИСТ-3 |  | |  | | | 
 | 118 | Янова А.С. | 25-ИСТ-3 |  | |  | | | 
 | 119 | Кузьмина Е.А. | 25-ИСТ-3 | 44 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
@@ -1952,9 +1952,9 @@
 | 133 | Поторочин И.Б. | 25-ИСТ-4-1 | 83 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 134 | Сараев А. | 25-ИСТ-4-1 | 103 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
 | 135 | Седышева В.В. | 25-ИСТ-4-1 | 141 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 136 | Слабинская Н. | 25-ИСТ-4-1 |  | |  | | | 
+| 136 | Слабинская Н. | 25-ИСТ-4-1 | 164 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 137 | Фролов А.А. | 25-ИСТ-4-1 | 60 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
-| 138 | Чжен М. | 25-ИСТ-4-1 | 158 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
+| 138 | Чжен М. | 25-ИСТ-4-1 | 168 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 139 | Чурмеев В. | 25-ИСТ-4-1 |  | |  | | | 
 | 140 | Додонова А.В. | 25-ИСТ-4-2 | 37 | <img src="img/s.png" width="20"> | нет файлов |  |  | <img src="img/f.png" width="20"> |  | 
 | 141 | Досужая М.Ю. | 25-ИСТ-4-2 | 139 | <img src="img/s.png" width="20"> | <img src="img/s.png" width="20"> |  |  | <img src="img/s.png" width="20"> |  | 
